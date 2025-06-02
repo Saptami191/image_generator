@@ -21,4 +21,4 @@ A simple web application that allows users to generate AI images by entering tex
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-image-generator.git
+   git clone https://github.com/https://github.com/Saptami191/ai-image-generator.git
